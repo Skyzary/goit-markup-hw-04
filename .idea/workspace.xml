@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f22a5f5f-442d-495f-a818-7e20a33f028c" name="Changes" comment="refactor: update portfolio section and add project configuration files" />
+    <list default="true" id="f22a5f5f-442d-495f-a818-7e20a33f028c" name="Changes" comment="add initial project files and configure Prettier settings">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/xzvtvxs/goit-markup-hw-04.git",
+    "url": "https://github.com/Skyzary/goit-markup-hw-04.git",
     "accountId": "c137d5f0-737c-44e7-931b-a8c77f66b159"
   }
 }]]></component>
@@ -83,6 +86,7 @@
       <workItem from="1754477199436" duration="68000" />
       <workItem from="1754477287019" duration="14162000" />
       <workItem from="1754519242331" duration="103000" />
+      <workItem from="1754519364107" duration="7100000" />
     </task>
     <task id="LOCAL-00001" summary="add second section styling">
       <option name="closed" value="true" />
@@ -116,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754519262488</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add initial project files and configure Prettier settings">
+      <option name="closed" value="true" />
+      <created>1754519427589</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754519427589</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +138,7 @@
     <MESSAGE value="add second section styling" />
     <MESSAGE value="update social media icons and improve portfolio card layout" />
     <MESSAGE value="refactor: update portfolio section and add project configuration files" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: update portfolio section and add project configuration files" />
+    <MESSAGE value="add initial project files and configure Prettier settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="add initial project files and configure Prettier settings" />
   </component>
 </project>
